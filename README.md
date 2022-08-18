@@ -3,6 +3,8 @@
 ### EDA
 <p>Enables an in depth understanding of the dataset, defines or discards hypothesis and helps create predictive models on a solid basis.</p>
 
+**Rule of Thumb : ** 80% time in data preparation & exploration where as 20% in actual machine learning modeling.
+
 ### EDA Process
 ![EDA Procoess](https://miro.medium.com/max/1400/1*ejW2uqLQ0W3lUsTBNxhxcg.png)
 - **Required libraries for EDA** : Pandas, Numpy, Sklearn, Matplotlib, Seaborn
